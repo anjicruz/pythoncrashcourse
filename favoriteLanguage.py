@@ -5,3 +5,4 @@
 # print(message)
 sum = 0.001 + 0.12
 print(sum)
+sum=3+2
